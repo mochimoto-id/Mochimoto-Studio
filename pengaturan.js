@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "MOCHIMOTO STUDIO",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyBKrx07D0g8MOWum0QdADc_TvIcd6rc8Vw",
     whatsappAdmin: "6285211994125" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
